@@ -1,2 +1,2 @@
-# Digital-Clock-With-Date
+# Digital Clock With Date
 My digital clock is ready!
